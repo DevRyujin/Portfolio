@@ -121,7 +121,7 @@ const Hero = () => {
           transition={{ delay: 0.5, duration: 0.6 }}
         >
           <a
-            href="/Jade_Andrei_Santos-Resume.pdf"
+            href="https://educlaasglobal-my.sharepoint.com/:w:/g/personal/ls08195_learning_educlaas_com/IQBGeJYnPdtmSYA9WodH5ByDAXkLxRWJWQYvgZsko5teTNA?e=F5ZSfQ"
             target="_blank"
             rel="noopener noreferrer"
             className="px-10 py-3 rounded-2xl bg-gradient-to-r from-gray-200 via-gray-600 to-gray-900 text-gray-200 hover:opacity-90 text-center font-medium shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300"
