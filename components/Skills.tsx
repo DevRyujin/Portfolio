@@ -35,6 +35,7 @@ const Skills = () => {
     { name: "GitHub", icon: "devicon-github-original colored" },
     { name: "MySQL", icon: "devicon-mysql-plain colored" },
     { name: "Java", icon: "devicon-java-plain" },
+    { name: "Laravel", icon: "devicon-laravel-original colored" },
     { name: "Generative AI", icon: BrainCircuit, color: "#a855f7" },
   ];
 

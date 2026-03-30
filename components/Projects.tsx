@@ -6,12 +6,28 @@ import { ChevronLeft, ChevronRight, X } from "lucide-react";
 
 const projects = [
   {
-    title: "Meals On Wheels",
+    title: "Capstone Project - Meals On Wheels",
     description:
       "Meals on Wheels is a community-focused food service that ensures reliable access to meals, using an API to calculate distance between users and community kitchens, delivering hot meals within 10 km and frozen meals beyond.",
     tech: ["Spring Boot", "MySQL", "React", "Tailwind", "Google Maps API"],
     image: "/mow.png",
     link: "https://github.com/DevRyujin/mealsonwheels-project",
+  },
+  {
+    title: "Capstone Project - Jumpstart",
+    description:
+      "Jumpstart is a fashion e-commerce website that delivers a seamless shopping experience with trendy clothing and accessories. An AI-powered system helps users discover products tailored to their style and preferences.",
+    tech: ["Spring Boot", "MySQL", "React", "Tailwind", "FastAPI"],
+    image: "/jumpstart.png",
+    link: "https://github.com/DevRyujin/Jumpstart-Capstone",
+  },
+  {
+    title: "Capstone Project - FitMartial",
+    description:
+      "FitMartial is a fitness and martial arts social media and a training tracker. It provides a platform for fitness and martial arts enthusiasts to connect, share their progress, and access training resources. The project focuses on creating a supportive community while offering tools for tracking workouts and martial arts training.",
+    tech: ["Laravel", "MySQL", "Blade", "Tailwind"],
+    image: "/fitmartial.png",
+    link: "https://github.com/DevRyujin/FitMartial",
   },
   {
     title: "Enomy Finances",
@@ -28,14 +44,6 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     image: "/dobu.png",
     link: "https://github.com/DevRyujin/DoBu-Martial-Art",
-  },
-  {
-    title: "Jumpstart",
-    description:
-      "Jumpstart is a fashion e-commerce website that delivers a seamless shopping experience with trendy clothing and accessories. An AI-powered system helps users discover products tailored to their style and preferences.",
-    tech: ["Spring Boot", "MySQL", "React", "Tailwind", "FastAPI"],
-    image: "/jumpstart.png",
-    link: "https://github.com/DevRyujin/Jumpstart-Capstone",
   },
   {
     title: "North Sussex Judo",
